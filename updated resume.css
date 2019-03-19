@@ -1,0 +1,149 @@
+body{
+    background-color: rgb(188, 243, 225);
+}
+#Resume{
+   font-family: 'Calibri' 'Times New Roman' 'serif';
+   font-size:30px;
+   color: rgb(29, 95, 95);
+    text-align: center;
+    text-decoration:underline;
+}
+.strong{
+    font-family: 'Calibri';
+    font-size:18px;
+    line-height: 25px;
+}
+#mail{
+    text-align: right
+}
+#no{
+    text-align: right
+}
+#object{
+    font-family: 'Calibri';
+    font-size:20px;
+    color: rgb(29, 95, 95);
+    text-align: center;
+    text-decoration:underline;
+}
+.para{
+    font-family: 'Calibri';
+    font-size: 19px;
+    text-align: justify;
+}
+#ACADEMIC{
+    font-family: 'Calibri';
+    font-size:20px;
+    color: rgb(29, 95, 95);
+    text-align: center;
+    text-decoration:underline;
+}
+table{
+    text-align: center;
+    font-family: 'Calibri';
+    font-size: 20px
+}
+#skill{
+    font-family: 'Calibri';
+    font-size:20px;
+    color: rgb(29, 95, 95);
+    text-align: center;
+    text-decoration:underline;
+}
+#Languages{
+    font-family: 'Calibri';
+    text-align: left;
+    font-size: 17px;
+    color: rgb(75, 139, 139);
+    text-decoration: underline
+}
+#skill_lang1{
+    font-family: 'Calibri';
+    font-size:17px;
+    text-align: left;
+    letter-spacing:2px;
+    word-spacing: 2px;
+}
+#skill_lang2{
+    font-family: 'Calibri';
+    font-size:17px;
+    text-align: left;
+    letter-spacing:2px;
+    word-spacing: 2px;
+}
+#Others{
+    font-family: 'Calibri';
+    text-align: left;
+    font-size: 17px;
+    color: rgb(75, 139, 139);
+    text-decoration: underline;
+}
+#train{
+    font-family: 'Calibri';
+    font-size:24px;
+    color: rgb(29, 95, 95);
+    text-align: center;
+    text-decoration:underline;
+}
+#list{
+    font-family: 'Calibri';
+    font-size:17px;
+    text-align: left;
+    letter-spacing:2px;
+    word-spacing: 2px;
+}
+#achiv{
+    font-family: 'Calibri';
+    font-size:24px;
+    color: rgb(29, 95, 95);
+    text-align: center;
+    text-decoration:underline;
+}
+#para2{
+    font-size: 18px;
+   
+}
+#inter{
+    font-family: 'Calibri';
+    font-size:24px;
+    color: rgb(29, 95, 95);
+    text-align: center;
+    text-decoration:underline;
+}
+#para3{
+    font-size: 18px;
+    word-spacing:1px;
+    line-height: 25px;
+}
+#details{
+    font-family: 'Calibri';
+    font-size:24px;
+    color: rgb(29, 95, 95);
+    text-align: center;
+    text-decoration:underline;
+}
+#bio{
+    font-size: 18px;
+    line-height: 32px;
+}
+#declar{
+    font-family: 'Calibri';
+    font-size:24px;
+    color: rgb(29, 95, 95);
+    text-align: center;
+    text-decoration:underline;
+}
+#last{
+    font-size: 18px;
+    word-spacing:1px;
+    line-height: 25px;
+}
+.loca{
+    font-size: 18px;
+    word-spacing:1px;
+    line-height: 25px;
+}
+#Signature{
+    text-align: right;
+    font-size: 18px;
+}
